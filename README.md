@@ -1,4 +1,12 @@
-### Hi there 👋
+### Dear Visitor, Hello! 👋
+
+I am Mahe, a senior year Computer Engineering student from India. </br> I can code decently in C++
+and Python, and badly in Ruby.</br> 
+I have recently completed my internship at [conda-forge](https://github.com/conda-forge) and I am presently a software engineering intern at [Quansight](https://www.quansight.com/) where I am adding more package origins to [Grayskull](https://github.com/conda-incubator/grayskull#readme), which is a conda recipe generator for conda-forge.</br>
+When I am not being lazy, I read books. I like to write too, mostly in fits of fervor, [here](https://renderingsofmyheart.wordpress.com/).</br> 
+Out of deference for my graduation degree, I maintain a [technical blog](https://maheiram.medium.com/) as well.</br> 
+I also happen to be a member of the University Dramatics Club and can do a Shakespeare or two.</br> 
+To seem cool, I [tweet](https://twitter.com/IramMahe).   
 
 <!--
 **ForgottenProgramme/ForgottenProgramme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
