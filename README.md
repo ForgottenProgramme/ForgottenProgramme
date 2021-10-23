@@ -5,7 +5,7 @@ I recently completed an internship at [conda-forge](https://github.com/conda-for
 When I am not being lazy, I read books. I like to write too, mostly in fits of fervor, [here](https://renderingsofmyheart.wordpress.com/).</br> 
 Out of deference for my graduation degree, I maintain a [technical blog](https://maheiram.medium.com/) as well.</br> 
 I also happen to be a member of the University Dramatics Club and can do a Shakespeare or two.</br> 
-To seem cool, I [tweet](https://twitter.com/IramMahe). </br>
+To seem cool, I [tweet](https://twitter.com/forgottenpro). </br>
 The easiest way to reach me out is via Twitter DM. :)   </br>
 Oh, I have a website you might want to look at: https://forgottenprogramme.github.io/ .
 <!--
