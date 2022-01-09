@@ -8,7 +8,7 @@ Out of deference for my graduation degree, I maintain a [technical blog](https:/
 I also happen to be a member of the University Dramatics Club and can do a Shakespeare or two.</br> 
 I [tweet](https://twitter.com/IramMahe). </br>
 The easiest way to reach me out is via Twitter DM. :)   </br>
-Oh, I have a website you might want to look at: https://forgottenprogramme.github.io/ .
+Oh, I have a [website](https://forgottenprogramme.github.io/) you might like to look at :).
 <!--
 **ForgottenProgramme/ForgottenProgramme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
