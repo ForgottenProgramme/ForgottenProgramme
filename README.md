@@ -1,7 +1,7 @@
 ### Dear Visitor, Hello! 👋
 
-I am Mahe, a senior year Computer Engineering student from India. </br> I code in Python and C++. </br> 
-Presently I am a Software Engineer Intern at [Anaconda](https://www.anaconda.com/). I previously worked at Quansight Labs and RedHat.</br>
+I am Mahe from Delhi. </br> I code in Python. </br> 
+Presently I am a Software Engineer at [Anaconda](https://www.anaconda.com/). I previously interned at conda-forge, Quansight Labs and RedHat.</br>
 When I am not being lazy, I read books. I like to write too, mostly in fits of fervor, [here](https://renderingsofmyheart.wordpress.com/).</br> 
 Out of deference for my graduation degree, I maintain a [technical blog](https://maheiram.medium.com/) as well.</br> 
 I also happen to be a member of the University Dramatics Club and can do a Shakespeare or two.</br> 
