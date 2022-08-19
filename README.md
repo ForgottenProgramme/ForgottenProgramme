@@ -1,10 +1,10 @@
 ### Dear Visitor, Hello! 👋
 
 I am Mahe from Delhi. </br> I code in Python. </br> 
-Presently I am a Software Engineer at [Anaconda](https://www.anaconda.com/). I previously interned at conda-forge, Quansight Labs and RedHat.</br>
+I am a Software Engineer at [Anaconda](https://www.anaconda.com/). I previously interned at conda-forge, Quansight Labs and RedHat.</br>
 When I am not being lazy, I read books. I like to write too, mostly in fits of fervor, [here](https://renderingsofmyheart.wordpress.com/).</br> 
 Out of deference for my graduation degree, I maintain a [technical blog](https://maheiram.medium.com/) as well.</br> 
-I also happen to be a member of the University Dramatics Club and can do a Shakespeare or two.</br> 
+I used to be a member of the University Dramatics Club and can do a Shakespeare or two.</br> 
 I [tweet](https://twitter.com/IramMahe). </br>
 Oh, I have a [website](https://forgottenprogramme.github.io/) you might like to look at :).
 <!--
