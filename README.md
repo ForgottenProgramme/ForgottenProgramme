@@ -1,10 +1,9 @@
 ### Dear Visitor, Hello! 👋
 
-I am Mahe from Delhi. </br> I code in Python. </br> 
-I am a Software Engineer at [Anaconda](https://www.anaconda.com/). I previously interned at conda-forge, Quansight Labs and RedHat.</br>
-When I am not being lazy, I read books. I like to write too, mostly in fits of fervor, [here](https://renderingsofmyheart.wordpress.com/).</br> 
-Out of deference for my graduation degree, I maintain a [technical blog](https://maheiram.medium.com/) as well.</br> 
-I used to be a member of the University Dramatics Club and can do a Shakespeare or two.</br> 
+I am Mahe. <br>
+I am a Software Engineer at [Anaconda](https://www.anaconda.com/).<br>
+When I am not being lazy, I read books. I just finished reading "The Remains of the Day". If you've read this book or are currently reading it and would like to talk about it, please reach out to me. I love discussing literature and cinema! <br>
+I like to write too, mostly in fits of fervor, [here](https://renderingsofmyheart.wordpress.com/).</br> 
 I [tweet](https://twitter.com/IramMahe). </br>
 Oh, I have a [website](https://forgottenprogramme.github.io/) you might like to look at :).
 <!--
