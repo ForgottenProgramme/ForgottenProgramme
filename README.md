@@ -1,6 +1,6 @@
 ### Dear Visitor, Hello! 👋
 
-I am Mahe. <br>
+I am Mahe, a new Berliner. <br>
 I am a Software Engineer at [Anaconda](https://www.anaconda.com/).<br>
 When I am not being lazy, I read books. I just finished reading "The Remains of the Day". If you've read this book or are currently reading it and would like to talk about it, please reach out to me. I love discussing literature and cinema! <br>
 I like to write too, mostly in fits of fervor, [here](https://renderingsofmyheart.wordpress.com/).</br> 
