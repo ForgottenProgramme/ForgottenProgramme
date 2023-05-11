@@ -1,5 +1,5 @@
 
-Software Engineer at [Anaconda](https://www.anaconda.com/), helping make conda even better.
+Software Engineer at [Anaconda](https://www.anaconda.com/), helping make conda better.
 <!--
 **ForgottenProgramme/ForgottenProgramme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
