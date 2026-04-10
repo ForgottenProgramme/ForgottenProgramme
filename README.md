@@ -1,5 +1,8 @@
 
-Software Engineer at [Anaconda](https://www.anaconda.com/).
+[conda](https://github.com/conda/conda) maintainer <br>
+Software Engineer at [Anaconda](https://www.anaconda.com/) <br>
+[LinkedIn](https://www.linkedin.com/in/irammahe/)
+
 <!--
 **ForgottenProgramme/ForgottenProgramme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
