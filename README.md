@@ -5,7 +5,7 @@ Software Engineer at [Anaconda](https://www.anaconda.com/) <br>
 [My LinkedIn Profile](https://www.linkedin.com/in/irammahe/) <br>
 
  <b> Conference Resources </b> <br>
- PyConDe 2026 Presentation [Slides](https://docs.google.com/presentation/d/1XDSMG0V0zQByrjuL2H3YA3hqEYOvSsXqC5uDZLXwp-8/edit?usp=sharing)
+ PyConDe 2026 and PyCon Italia 2026 Presentation [Slides](https://docs.google.com/presentation/d/1XDSMG0V0zQByrjuL2H3YA3hqEYOvSsXqC5uDZLXwp-8/edit?usp=sharing)
 
 <!--
 **ForgottenProgramme/ForgottenProgramme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
