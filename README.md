@@ -1,11 +1,20 @@
+# Hi, I'm Mahe 👋
 
-[conda](https://github.com/conda/conda) maintainer <br>
-Software Engineer at [Anaconda](https://www.anaconda.com/) <br>
-[My Blog](https://forgottenprogramme.github.io/) <br>
-[My LinkedIn Profile](https://www.linkedin.com/in/irammahe/) <br>
+🐍 Maintainer of [conda](https://github.com/conda/conda)
 
- <b> Conference Resources </b> <br>
- PyConDe 2026 and PyCon Italia 2026 Presentation [Slides](https://docs.google.com/presentation/d/1XDSMG0V0zQByrjuL2H3YA3hqEYOvSsXqC5uDZLXwp-8/edit?usp=sharing)
+💼 Software Engineer at [Anaconda](https://www.anaconda.com/)
+
+💼 [LinkedIn](https://www.linkedin.com/in/irammahe/)
+
+✍️ [Blog](https://forgottenprogramme.github.io/)
+
+## Conference Talks
+
+### PyConDE 2026 & PyCon Italia 2026
+
+**How to mix `conda` and `pip` without causing "environmental damage"**
+
+📑 [Slides](https://docs.google.com/presentation/d/1XDSMG0V0zQByrjuL2H3YA3hqEYOvSsXqC5uDZLXwp-8/edit?usp=sharing)
 
 <!--
 **ForgottenProgramme/ForgottenProgramme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
