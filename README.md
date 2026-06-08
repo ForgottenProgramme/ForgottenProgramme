@@ -10,9 +10,9 @@
 
 ## Conference Talks
 
-### PyConDE 2026 & PyCon Italia 2026
+### [PyConDE 2026](https://2026.pycon.de/) & [PyCon Italia 2026](https://2026.pycon.it/en)
 
-**How to mix `conda` and `pip` without causing "environmental damage"**
+Presented **"How to mix `conda` and `pip` without causing environmental damage"** at both conferences.
 
 📑 [Slides](https://docs.google.com/presentation/d/1XDSMG0V0zQByrjuL2H3YA3hqEYOvSsXqC5uDZLXwp-8/edit?usp=sharing)
 
